@@ -9,8 +9,8 @@ Jl. Jend. Sudirman Kav. 59 Jakarta 12190
 
 Speaker : 
 
-1. Adrian Adendrata (Software Engineer Lead, DOKU) - "Refactoring Journey"
-2. Eko Kurniawan Khannedy (Senior Principal RnD Blibli) : "Code Structure Refactoring"
+1. Adrian Adendrata (Software Engineer Lead, DOKU) - ["Refactoring Journey"](https://drive.google.com/open?id=1c7chbaEMbX2oI_U-LxS_R43RtNfnwpsZ)
+2. Eko Kurniawan Khannedy (Senior Principal RnD Blibli) : ["Code Structure Refactoring"](https://drive.google.com/open?id=1HMZadMI1flTgHjZU8j-PbrHl1oaG8lOs)
 
 ![JVM Meetup #19 Poster](img/JVM19_Landscape.jpeg "JVM Meetup #19 Poster")
 
